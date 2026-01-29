@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+env/
+ENV/
+
+# PyInstaller
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test files and certificates (security)
+test_*.exe
+test_*.dll
+*.pfx
+*.p12
+*.cer
+*.crt
+*.key
+*.pem
+
+# Logs
+*.log
+

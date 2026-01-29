@@ -1,0 +1,6 @@
+# Code Signing Tool GUI - Requirements
+# Note: tkinter is included with Python, no additional GUI dependencies needed
+
+# No external dependencies required - uses only Python standard library
+# Python 3.6+ required
+
